@@ -18,6 +18,7 @@ public class Calculator {
 
     public double divide(int a, int b) {
         // TODO: Implement this method
-        return (double) a/b;
+        // Need to add double due to int to double
+        return (double) a/ b;
     }
 }
